@@ -13,9 +13,15 @@ h1 {
 	}
 
 h2 {
-	color: navy blue;
+	color: #c5e32d;
 	text-align: center;
-	margin: 100px auto;
+	margin: 50px auto;
+}
+
+.home a{
+	
+	color: white;
+
 }
 
 .home {

@@ -59,7 +59,9 @@ border: none;
 	cursor: pointer;
 }
 
-p .sgn-link {
+.atag a{
 
-	color: white;
+	text-align: center;
+	color:white;
 }
+
