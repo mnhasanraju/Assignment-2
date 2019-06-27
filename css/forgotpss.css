@@ -1,7 +1,7 @@
 body {
  
 	font-family: 'Montserrat', sans-serif;
-	background-image: url("../img/cover.jpg");
+	background-image: url("../img/bg.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-color: #cccccc;
@@ -15,12 +15,13 @@ h1 {
 
 .container{
 	width: 450px;
-	margin: 2% auto;
+	margin: 0 auto;
+
 	}
 
 .login-section{
-    padding: 20px;
-    background-color: #1c272730;
+    padding: 50px;
+    background-color: #1c27270f;
     border-radius: 10px;
 }
 
@@ -30,11 +31,7 @@ h1 {
 	size: 25px;
 	}
 
-.login-section img{
-	width: 160px;
-	margin: 0 auto;
-	display: block;
-	}
+
 
 .form-control{
 	width: 90%;
@@ -58,8 +55,6 @@ border: none;
 	transition: 0.5s;
 	cursor: pointer;
 }
-
-p .sgn-link {
-
-	color: white;
+p {
+	text-align: right;
 }

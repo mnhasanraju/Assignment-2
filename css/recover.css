@@ -1,0 +1,23 @@
+body {
+ 
+	font-family: 'Montserrat', sans-serif;
+	background-image: url("../img/bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #cccccc;
+	}
+
+h1 {
+  color: white;
+  text-align: center;
+	}
+
+h2 {
+	color: navy blue;
+	text-align: center;
+	margin: 100px auto;
+}
+
+.home {
+	text-align: center;
+}
